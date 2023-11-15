@@ -1,6 +1,6 @@
 import {Component} from 'react'
 
-import BrowserItem from '../BrowserItem'
+import BrowserItem from '../browserItem'
 
 import './index.css'
 
