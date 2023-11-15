@@ -104,7 +104,7 @@ class BrowsingHistory extends Component {
       eachResult.title.toLowerCase().includes(searchInput.toLowerCase()),
     )
     if (newResults.length === 0) {
-      this.renderEmptyView()
+       return this.renderEmptyView()
     }
     return (
       <ul className="history-cont">
