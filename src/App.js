@@ -1,4 +1,4 @@
-import BrowsingHistory from './components/BrowsingHistory'
+import BrowsingHistory from './components/browsingHistory'
 import './App.css'
 
 const initialHistoryList = [
